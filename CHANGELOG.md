@@ -1,3 +1,4 @@
-# plaza-resource - CHANGELOG.md
+# Changelog
 
-Placeholder for CHANGELOG.md.
+## [Unreleased]
+- Initial scaffold

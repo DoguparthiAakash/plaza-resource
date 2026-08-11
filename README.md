@@ -1,10 +1,13 @@
-# `plaza-resource`
+# PlazaVM Repository
 
-Resource quota allocation and hardware limit management crate.
+This repository is part of the PlazaVM ecosystem.
 
----
+## Building
+```
+cargo build
+```
 
-## 🛠 Responsibilities
-
-- Dynamic CPU, RAM, and VRAM resource limit enforcement (`ResourceManager`).
-- Prevents system over-subscription and exhaustion.
+## Testing
+```
+cargo test
+```
